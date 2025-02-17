@@ -1,0 +1,5 @@
+layer,hook_function,region,TCA,ASR
+conv2,mask_with_blur_hook_conv2,lower_right,0.984,0.9994
+conv2,masl_lower_zero_hook,lower_right,0.13,0.9876
+conv2,mask_lower_half_hook,lower_right,0.1277,0.9843
+conv2,mask_with_mean_hook,lower_right,0.9112,0.1843
